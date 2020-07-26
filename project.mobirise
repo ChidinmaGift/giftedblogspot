@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-06-17_0108",
-    "currentPage": "index.html",
+    "currentPage": "Entertainment.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.2",
     "siteFonts": [],
-    "uniqCompNum": 1304,
+    "uniqCompNum": 1357,
     "versionPublish": "4.12.2",
     "imageResize": true,
     "screenshot": "screenshot.png"
@@ -308,7 +308,7 @@
       "settings": {
         "meta_descr": "Latest and top news on global happenenings",
         "title": "Giftedblogspot",
-        "order": 116,
+        "order": 122,
         "meta_image": "@PROJECT_PATH@/assets/images/gifted-900x1359.jpeg"
       },
       "components": [
@@ -596,7 +596,7 @@
       "settings": {
         "meta_descr": "What next after school",
         "title": "SCHOOLING",
-        "order": 130
+        "order": 135
       },
       "components": [
         {
@@ -983,7 +983,7 @@
       "settings": {
         "meta_descr": "coutries affected most by covid-19",
         "title": "COVID-19",
-        "order": 129
+        "order": 134
       },
       "components": [
         {
@@ -1318,7 +1318,7 @@
       "settings": {
         "meta_descr": "Entertainment",
         "title": "Entertainment",
-        "order": 128
+        "order": 133
       },
       "components": [
         {
@@ -1510,6 +1510,260 @@
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#000000"
+          },
+          "title": "Updated: 26, July 2020",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10a"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bbnaijaupdate-600x333.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bbnaijaupdate-600x333.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/adorable-photographs-of-29-year-old-wathoni-and-her-5-year-old-child-600x367.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/varifieddorathy-600x333.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "BBNaija 2020: Twitter responds to first Saturday night party&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "I didn't provide request to suspend Big Brother Naija - Lai Mohammed&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "BBNaija 2020: Adorable photographs of 29-year-old Wathoni and her 5-year-old child",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Dorathy turns out to be first female housemate to get checked on Instagram \n",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"BBNaija 2020 Twitter responds to first Saturday night party .html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"I didnt provide request to suspend Big Brother Naija - Lai Mohammed .html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"BBNaija 2020 Adorable photographs of 29-year-old Wathoni and her 5-year-old child.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Dorathy turns out to be first female housemate to get checked on Instagram .html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-108",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tiwasavage-400x300.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/naira-marley-600x362.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Vocalist Tiwa Savage asks Rihanna for a joint effort, approaches fans to continue labeling her&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Start a business for the lady you like - Naira Marley prompts Nigerian men&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"Vocalist Tiwa Savage asks Rihanna for a joint effort, approaches fans to continue labeling her .html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Start a business for the lady you like - Naira Marley prompts Nigerian men .html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-109",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
@@ -1648,6 +1902,40 @@
               "color": "#8c8c8c"
             }
           }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d14841",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/francis_gifted/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/francis.gift.311/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"https://wa.me/08143975155\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/i_am_gi_ft_ed/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-10b"
         },
         {
           "_styles": {
@@ -2199,7 +2487,7 @@
       "settings": {
         "meta_descr": "Life hacks, new ideas, stories, news on important trends, guide and more on our every day living.",
         "title": "Myblog",
-        "order": 127
+        "order": 132
       },
       "components": [
         {
@@ -3247,7 +3535,7 @@
       "settings": {
         "meta_descr": "about gifted",
         "title": "Author",
-        "order": 125
+        "order": 131
       },
       "components": [
         {
@@ -3502,7 +3790,7 @@
       "settings": {
         "meta_descr": "MUST Read News And Articles",
         "title": "Mustread",
-        "order": 124
+        "order": 130
       },
       "components": [
         {
@@ -4562,7 +4850,7 @@
       "settings": {
         "meta_descr": "subscribing",
         "title": "Subscribe",
-        "order": 123
+        "order": 129
       },
       "components": [
         {
@@ -4782,7 +5070,7 @@
       "settings": {
         "meta_descr": "FIFA, football's world governing body, has agreed to be flexible with the typical July-August trading period in Europe as there is no clarity when the current season will end and the 2020-21 campaign will begin. \"This would be a good idea to make like a six months transfer window from summer to winter 2021,\" Sadowski said. \"It would give all those clubs a chance to better plan transfers and their budgets.\" Although English clubs face hardship if broadcast deals are not paid in full, the huge wealth gap in Europe was highlighted. Every English Premier League club will still be paid tens of millions of dollars this season, while Croatian clubs get 150,000 euros ($162,000) annually from domestic TV revenue, Gudasic said.",
         "title": "fifatreat",
-        "order": 122
+        "order": 128
       },
       "components": [
         {
@@ -5312,7 +5600,7 @@
       "settings": {
         "meta_descr": "The 20 most valuable players in world football right now have been revealed (20-1)",
         "title": "top20players",
-        "order": 121
+        "order": 127
       },
       "components": [
         {
@@ -5610,7 +5898,7 @@
       "settings": {
         "meta_descr": "FIFA Signals Support for In-Game Tributes to George Floyd, Lets Leagues Use Discretion...",
         "title": "FIFA Signals Support for In-Game Tributes to George Floyd, Lets Leagues Use Discretion",
-        "order": 120
+        "order": 126
       },
       "components": [
         {
@@ -5921,7 +6209,7 @@
       "settings": {
         "meta_descr": "Top news and latest trends in the world of sports Featuring Football, Basketball, Tenis, Rugby, Boxing and more",
         "title": "Sports",
-        "order": 119
+        "order": 125
       },
       "components": [
         {
@@ -7151,7 +7439,7 @@
       "settings": {
         "meta_descr": "Top news and latest trends in the world of Business Featuring Analytics, Trends, Rates, oportunities, and more. \n",
         "title": "Business",
-        "order": 118
+        "order": 124
       },
       "components": [
         {
@@ -8034,7 +8322,7 @@
       "settings": {
         "meta_descr": "Top news and latest trends in the world of Tech Featuring Latest innovations, AI impacts and more.",
         "title": "all tech news",
-        "order": 117
+        "order": 123
       },
       "components": [
         {
@@ -9055,7 +9343,7 @@
       "settings": {
         "meta_descr": "UK says 'we will not duck our historic responsibilities' to Hong Kongers, offers path to citizenship, Break through in vaccine - COVID-19",
         "title": "latest politics trends",
-        "order": 115
+        "order": 121
       },
       "components": [
         {
@@ -10069,7 +10357,7 @@
       "settings": {
         "meta_descr": "must have phone 2020",
         "title": "must have phone 2020",
-        "order": 114
+        "order": 120
       },
       "components": [
         {
@@ -10677,7 +10965,7 @@
       "settings": {
         "meta_descr": "Bucknell women's basketball coach Woodruff delves into program history with former players' help",
         "title": "Bucknell women's basketball coach Woodruff delves into program history with former players' help",
-        "order": 113
+        "order": 119
       },
       "components": [
         {
@@ -10974,7 +11262,7 @@
       "settings": {
         "meta_descr": "footballforallinireland",
         "title": "Football For All reaching its goals in Northern Ireland",
-        "order": 112
+        "order": 118
       },
       "components": [
         {
@@ -11323,7 +11611,7 @@
       "settings": {
         "meta_descr": "Look: LeBron James Reacts To Lakers Signing J.R. Smith",
         "title": "LeBron James Reacts To Lakers Signing J.R. Smith",
-        "order": 111
+        "order": 117
       },
       "components": [
         {
@@ -11672,7 +11960,7 @@
       "settings": {
         "meta_descr": "Anthony Joshua leads praise of National School Sport Week",
         "title": "Anthony Joshua leads praise of National School Sport Week",
-        "order": 110
+        "order": 116
       },
       "components": [
         {
@@ -11968,7 +12256,7 @@
       "settings": {
         "meta_descr": "USA women's soccer team demand apology and repeal of anthem policy",
         "title": "USA women's soccer team demand apology and repeal of anthem policy",
-        "order": 109
+        "order": 115
       },
       "components": [
         {
@@ -12265,7 +12553,7 @@
       "settings": {
         "meta_descr": "BBNaija season 5 is here and this time around it vows to be thrilling with housemates who all seem started up to make the following 10 weeks intriguing. \n\n20 housemates will slug it out for the great prize of N85M worth of endowments in the following 70 days. These housemates have from various foundations and it will intriguing to perceive how they interface and remain together in one house for the following 10 weeks. \n\nHere are the 20 housemates who will keep all of you stuck to your TV screens in the following 10 weeks. \n\nOzo \n\nOzo [Instagram/BigBroNaija] \n\nOzoemena \"Ozo\" Chukwu is a top notch Economics graduate who says he is somewhat laid back. The 27-year-old Consultant and business visionary intends to carry a ton of underhandedness to the house. \n\nVee \n\nVee [Instagram/BigBrotherNaija] \n\nThe 23-year old British brought into the world Nigerian, Victoria \"Vee\" Adeyele says she will be going into the house to make individuals chuckle, have some good times, and simply be the life of Biggie's home. She says she is serious which implies she's in the match to dominate. \n\nThe artist says she has not been seeing someone the late a half year. She says each other thing in the house is a fake. Vee says she is in all probability going to engage in an intrigue in the house. \n\nRuler \n\nRuler [Instagram/BigBrotherNaija] \n\nNelson Enwerem Prince who is the child of ruler says he is a dedicated individual. In any case, he says he is a self observer and social butterfly. He says he is bringing move moves to the Friday night party. He accepts he is in the show to win the cash. He additionally needs watchers to expect the unforeseen \n\nLilo \n\nLilo [Instagram/BigBrotherNaija] \n\nBoluwatife \"Lilo\" Aderogba is a 23 years of age dietician who says she is an objective getter and objective driven. Despite the fact that she doesn't care for individuals being in her business, she gets a kick out of the chance to be in control. She loathes individuals who don't have the foggiest idea how to mind their business (Looks like we as of now experience difficulty in the house) \n\nTrikyeTee \n\nTrikyeTee [Instagram/BigBroNaija] \n\nTimmy Sinclair cherishes food and isn't a devotee of glad individuals. He says he doesn't fit in with society. He definitely realizes he will fall into difficulty in light of his straightforwardness. The 35-year old inventive craftsman says he likewise needs everybody to keep an eye out for his move moves. \n\nLucy \n\nLucy [Instagram/BigBroNaija] \n\nLucy Essien is a 30-year-old business visionary from Lagos. Despite the fact that she prefers her space, she says she illuminates the room at whatever point she enters a spot. Lucy says she will get all the vibes and fun the house. \n\nKiddwaya \n\nKiddwaya [Instagram/BigBroNaija] \n\nTerseer Kiddwaya is 27-years of age independently employed indigene of Benue state. He says he is clever and wants to party. He says he is carrying all the fixings to marinate the show. He anyway despises insects. He accepts his certainty is confused with self-importance. \n\nDorothy \n\nDorothy [Instagram/BigBroNaija] \n\nDorothy Bachor says she doesn't vibe with glad individuals. The 24-year old business visionary says she will cause wahala in the house. She anyway says she is chiefly intrigued by the cash however will likewise be shooting her shot in the house. \n\nAcclaim \n\nAcclaim [Instagram/BigBroNaija] \n\nAcclaim Nelson is a 28-year old move educator says he is an agreeable individual. He was a champ at the K-Pop World Festival, South Korea 2015 and won third spot at a national Dance Competition in 2010. He says he cherishes food and will carry life to the house. \n\nWathoni \n\nMathoni [Instagram/BigBroNaija] \n\nA solitary mum, Florence Wathoni Anyansi communicates in Swahili, cherishes music, and will carry amusing to the house. The style business visionary says she is available to finding a relationship in the house. \n\nTochi \n\nTochi [Instagram/BigBroNaija] \n\nTochukwu Okechukwu Tochi is a 28-year-old rapper and realtor from Imo state. He prefers genuine individuals and is an exceptionally fun individual. He says he is bringing a ton of show, amusement, and reality to the house. He vows to act naturally in the house. \n\nKa3na \n\nKa3na [Instagram/BigBroNaija] \n\nKate \"Ka3na\" Jones is a business visionary. The 26-year old Rivers state indigene state she is the supervisor woman. She cherishes cash and detests neediness. She is carrying a ton of shocks to the house. \n\nEric \n\nEric [Instagram/BigBroNaija] \n\nEric Akhigbe, 24, is a last year understudy at the University of Lagos. The Edo state conceived health specialist says he will have a great time. He says watchers ought to anticipate a great deal of bareness from him. Eric says he lost his virginity at 20 years old. \n\nErica \n\nErica [Instagram/BigBroNaija] \n\nNgozi \"Erica\" Nlewedim, 26, is an entertainer and business model from London, England.. Erica says she is accompanying acceptable vibes. The entertainer says she will draw out a great deal of show in the house. She disdains consideration searchers, individuals who don't deal with their cleanliness and stress. \n\nBrilliant O \n\nBirght O [Instagram/BigBroNaija] \n\nEzekiel Bright \"Brighto\" Osemudiame is a 29-year-old mariner from Edo state. Brilliant boasts diverse as he says he has been to practically all the states in Nigeria. He communicates in Igbo, Hausa, Yoruba, and Edo dialects smoothly. He says he is carrying the all out bundle to the show. \n\nKaisha \n\nKaisha [Instagram/BigBroNaija] \n\nKaisha Umaru is a 25-year-old business person. Kaisha says she is a dedicated lady. She wants to sing, move, and have a fabulous time. The Sokoto state conceived excellence says there will be no dull minutes with her. \n\nNeo \n\nNeo [Instagram/BigBroNaija] \n\nEmuobonuvie \"Neo\" Akpofure, 26, prominently alluded to as Neo, is a ride-hailing application driver and a Delta State local. Neo says he is elegant and sharp. He says he is bringing vibes, voyage, and amusement to the house. Neo plans to discover love in the house. \n\nTolanibaj \n\nTolanibaj [Instagram/BigBroNaija] \n\nTolani Shobajo is a 27-year-old media character from Lagos state. She's everything about energy. She is exclusively in the show to win the cash. She is a Naira Marley fan that makes her a Marlian. \n\nLaycon \n\nLaycon [Instagram/BigBroNaija] \n\nOlamilekan \"Laycon\" Agbeleshe is a 26-year-old vocalist and rapper from Lagos, who wants to have a great time. He says he is carrying fun and absurdity to Biggie's home. He accepts his fans and the watchers will make the most of his stay in the house. \n\nNengi \n\nNengi [Instagram/BigBroNaija] \n\nRebecca \"Nengi\" Hampson, 22, is a business visionary from Bayelsa State, Nigeria. She is a previous model and MBGN Top 5 candidate. Nengi cherishes voyaging and great food. She needs individuals to see past her magnificence.",
         "title": "BBNhousemate",
-        "order": 1
+        "order": 7
       },
       "components": [
         {
@@ -13531,7 +13819,7 @@
       "settings": {
         "meta_descr": "Kameko gets Sussex Stakes green light at Goodwood",
         "title": "Kameko gets Sussex..",
-        "order": 2
+        "order": 8
       },
       "components": [
         {
@@ -13827,7 +14115,7 @@
       "settings": {
         "meta_descr": "FIFA despondent after Women's Africa Cup of Nations is dropped ",
         "title": "FIFA despondent after Women's Africa Cup of Nations is dropped ",
-        "order": 3
+        "order": 9
       },
       "components": [
         {
@@ -14123,7 +14411,7 @@
       "settings": {
         "meta_descr": "Jack Charlton, previous England World Cup champ, bites the dust at 85 ",
         "title": "Jack Charlton, previous England World Cup champ, bites the dust at 85 ",
-        "order": 4
+        "order": 10
       },
       "components": [
         {
@@ -14419,7 +14707,7 @@
       "settings": {
         "meta_descr": "The Memorial: Tiger Woods grouped with Rory McIlroy, Brooks Koepka ",
         "title": "The Memorial: Tiger Woods grouped with Rory McIlroy, Brooks Koepka ",
-        "order": 5
+        "order": 11
       },
       "components": [
         {
@@ -14780,7 +15068,7 @@
       "settings": {
         "meta_descr": "Shane Lowry: If I didn't win The Open, it would've been a let down ",
         "title": "Shane Lowry: If I didn't win The Open, it would've been a let down ",
-        "order": 6
+        "order": 12
       },
       "components": [
         {
@@ -15082,7 +15370,7 @@
       "settings": {
         "meta_descr": "Qatar discharges coordinate calendar for 2022 FIFA World Cup ",
         "title": "Qatar discharges coordinate calendar for 2022 FIFA World Cup ",
-        "order": 7
+        "order": 13
       },
       "components": [
         {
@@ -15378,7 +15666,7 @@
       "settings": {
         "meta_descr": "Manchester City's two-year European football boycott lifted ",
         "title": "Manchester City's two-year European football boycott lifted ",
-        "order": 8
+        "order": 14
       },
       "components": [
         {
@@ -15680,7 +15968,7 @@
       "settings": {
         "meta_descr": "EPL: Ian Wright gives decision on Champions League fight between Chelsea, Man Utd, Leicester ",
         "title": "EPL: Ian Wright gives decision on Champions League fight between Chelsea, Man Utd, Leicester ",
-        "order": 9
+        "order": 15
       },
       "components": [
         {
@@ -15982,7 +16270,7 @@
       "settings": {
         "meta_descr": "Lewis Hamilton on Black Power salute: Moment I'll always remember",
         "title": "Lewis Hamilton on Black Power salute: Moment I'll always remember",
-        "order": 10
+        "order": 16
       },
       "components": [
         {
@@ -16284,7 +16572,7 @@
       "settings": {
         "meta_descr": "Champions League to continue away from public scrutiny in August",
         "title": "Champions League to continue away from public scrutiny in August",
-        "order": 11
+        "order": 17
       },
       "components": [
         {
@@ -16586,7 +16874,7 @@
       "settings": {
         "meta_descr": "Maker Samklef, different Nigerians stress over on-screen character Mr Ibu's gigantic potbelly ",
         "title": "Maker Samklef, different Nigerians stress over on-screen character Mr Ibu's gigantic potbelly ",
-        "order": 12
+        "order": 18
       },
       "components": [
         {
@@ -16882,7 +17170,7 @@
       "settings": {
         "meta_descr": "Nollywood on-screen character Joke Silva shares legacy photograph of her and spouse",
         "title": "Nollywood on-screen character Joke Silva shares legacy photograph of her and spouse",
-        "order": 13
+        "order": 19
       },
       "components": [
         {
@@ -17178,7 +17466,7 @@
       "settings": {
         "meta_descr": "Many times Genevieve Nnaji ended up being in her very own class",
         "title": "Many times Genevieve Nnaji ended up being in her very own class",
-        "order": 14
+        "order": 20
       },
       "components": [
         {
@@ -17474,7 +17762,7 @@
       "settings": {
         "meta_descr": "Tonto Dikeh shares intend to assist ladies with IVF in the wake of - sparing lives in her fantasy",
         "title": "Tonto Dikeh shares intend to assist ladies with IVF in the wake of - sparing lives in her fantasy",
-        "order": 15
+        "order": 21
       },
       "components": [
         {
@@ -17770,7 +18058,7 @@
       "settings": {
         "meta_descr": "Wintersleep and Tim Baker win enormous at 2020 East Coast Music Awards",
         "title": "Wintersleep and Tim Baker win enormous at 2020 East Coast Music Awards",
-        "order": 16
+        "order": 22
       },
       "components": [
         {
@@ -18071,7 +18359,7 @@
       "settings": {
         "meta_descr": "Mainstream Hollywood on-screen character, John Travolta loses spouse to bosom malignancy",
         "title": "Mainstream Hollywood on-screen character, John Travolta loses spouse to bosom malignancy",
-        "order": 17
+        "order": 23
       },
       "components": [
         {
@@ -18372,7 +18660,7 @@
       "settings": {
         "meta_descr": "Mainstream Hollywood entertainer, Galyn Gorg passes on from malignancy",
         "title": "Mainstream Hollywood entertainer, Galyn Gorg passes on from malignancy",
-        "order": 18
+        "order": 24
       },
       "components": [
         {
@@ -18673,7 +18961,7 @@
       "settings": {
         "meta_descr": "social media",
         "title": "Conclusion : During past 10 years, social media caused a great change",
-        "order": 19
+        "order": 25
       },
       "components": [
         {
@@ -18987,7 +19275,7 @@
       "settings": {
         "meta_descr": "Brighter and Darker Sides of Social Media on Human Health Undoubtly,",
         "title": "Brighter and Darker Sides of Social Media on Human Health Undoubtly,",
-        "order": 20
+        "order": 26
       },
       "components": [
         {
@@ -19302,7 +19590,7 @@
       "settings": {
         "meta_descr": "DSS Arrests EFCC Acting Chairman, Ibrahim Magu",
         "title": "DSS Arrests EFCC Acting Chairman, Ibrahim Magu",
-        "order": 21
+        "order": 27
       },
       "components": [
         {
@@ -19604,7 +19892,7 @@
       "settings": {
         "meta_descr": "VIRGIN ORBITAL FAILS ON FIRST ATTEMPT!",
         "title": "VIRGIN ORBITAL FAILS ON FIRST ATTEMPT!",
-        "order": 23
+        "order": 29
       },
       "components": [
         {
@@ -19906,7 +20194,7 @@
       "settings": {
         "meta_descr": "FG suspends reviving of schools, understudies won't compose 2020 WAEC tests",
         "title": "FG suspends reviving of schools, understudies won't compose 2020 WAEC tests",
-        "order": 24
+        "order": 30
       },
       "components": [
         {
@@ -20208,7 +20496,7 @@
       "settings": {
         "meta_descr": "A Brief Background of Electronic Voting and Vote-counting Systems",
         "title": "A Brief Background of Electronic Voting and Vote-counting Systems",
-        "order": 25
+        "order": 31
       },
       "components": [
         {
@@ -20510,7 +20798,7 @@
       "settings": {
         "meta_descr": "COVID-19 Flare-up and Crypto Market",
         "title": "COVID-19 Flare-up and Crypto Market",
-        "order": 26
+        "order": 32
       },
       "components": [
         {
@@ -20812,7 +21100,7 @@
       "settings": {
         "meta_descr": "Zimbabwe halts mobile money transactions amid economic crisis",
         "title": "Zimbabwe halts mobile money transactions amid economic crisis",
-        "order": 27
+        "order": 33
       },
       "components": [
         {
@@ -21114,7 +21402,7 @@
       "settings": {
         "meta_descr": "The Revised 2020 Budget",
         "title": "The Revised 2020 Budget",
-        "order": 28
+        "order": 34
       },
       "components": [
         {
@@ -21416,7 +21704,7 @@
       "settings": {
         "meta_descr": "Microsoft to dispatch its cloud gaming administration openly in September",
         "title": "Microsoft to dispatch its cloud gaming administration openly in September",
-        "order": 29
+        "order": 35
       },
       "components": [
         {
@@ -21906,7 +22194,7 @@
       "settings": {
         "meta_descr": "5 Simple Ways to Make Money Online",
         "title": "5 Simple Ways to Make Money Online",
-        "order": 30
+        "order": 36
       },
       "components": [
         {
@@ -22335,7 +22623,7 @@
       "settings": {
         "meta_descr": "Why we can't help contradicting administration on Biafra — IPOB",
         "title": "Why we can't help contradicting administration on Biafra — IPOB",
-        "order": 31
+        "order": 37
       },
       "components": [
         {
@@ -22637,7 +22925,7 @@
       "settings": {
         "meta_descr": "Kanye West has purportedly dropped out of the U.S. presidential race under..",
         "title": "Kanye West calls it quits from 2020 US presidential race ",
-        "order": 32
+        "order": 38
       },
       "components": [
         {
@@ -22939,7 +23227,7 @@
       "settings": {
         "meta_descr": "A Pip at literally the complete List of the Upcoming Marvel Movies this year",
         "title": "A Pip at literally the complete List of the Upcoming Marvel Movies this year",
-        "order": 33
+        "order": 39
       },
       "components": [
         {
@@ -23240,7 +23528,7 @@
       "settings": {
         "meta_descr": "Keeping healthy",
         "title": "YourHealth",
-        "order": 34
+        "order": 40
       },
       "components": [
         {
@@ -23542,7 +23830,7 @@
       "settings": {
         "meta_descr": "Effect of Social Media on Human Health",
         "title": "Effect of Social Media on Human Health",
-        "order": 35
+        "order": 41
       },
       "components": [
         {
@@ -23857,7 +24145,7 @@
       "settings": {
         "meta_descr": "Must See Places in Nigeria",
         "title": "Must See Places in Nigeria",
-        "order": 37
+        "order": 43
       },
       "components": [
         {
@@ -24965,7 +25253,7 @@
       "settings": {
         "meta_descr": "Top 10 Basic Rules to live a Successful Life.",
         "title": "Top 10 Basic Rules to live a Successful Life.",
-        "order": 38
+        "order": 44
       },
       "components": [
         {
@@ -25787,7 +26075,7 @@
       "settings": {
         "meta_descr": "overcoming boredom. how?",
         "title": "OVERCOMING BOREDOM",
-        "order": 39
+        "order": 45
       },
       "components": [
         {
@@ -26391,7 +26679,7 @@
       "settings": {
         "meta_descr": "Researchers call for volunteers to be tainted with the coronavirus to test antibodies",
         "title": "Researchers call for volunteers to be tainted with the coronavirus to test antibodies",
-        "order": 40
+        "order": 46
       },
       "components": [
         {
@@ -26746,7 +27034,7 @@
       "settings": {
         "meta_descr": "MUSIC AND CULTURAL EVOLUTION",
         "title": "Musicandculture",
-        "order": 41
+        "order": 47
       },
       "components": [
         {
@@ -27048,7 +27336,7 @@
       "settings": {
         "meta_descr": "Post covid-19 economy",
         "title": "Post covid-19 economy",
-        "order": 42
+        "order": 48
       },
       "components": [
         {
@@ -27358,7 +27646,7 @@
       "settings": {
         "meta_descr": "news on school resumption",
         "title": "Resumption Update",
-        "order": 43
+        "order": 49
       },
       "components": [
         {
@@ -27689,7 +27977,7 @@
       "settings": {
         "meta_descr": "Eleventh outbreak declared in Équateur province",
         "title": "Eleventh outbreak declared in Équateur province",
-        "order": 44
+        "order": 50
       },
       "components": [
         {
@@ -27991,7 +28279,7 @@
       "settings": {
         "meta_descr": "SpaceX just launched a Space Force satellite with brand new Falcon 9 booster",
         "title": "SpaceX just launched a Space Force satellite with brand new Falcon 9 booster",
-        "order": 45
+        "order": 51
       },
       "components": [
         {
@@ -28293,7 +28581,7 @@
       "settings": {
         "meta_descr": "Over 15,500 virus cases in June, eased lockdown.",
         "title": "Over 15,500 virus cases in June, eased lockdown.",
-        "order": 46
+        "order": 52
       },
       "components": [
         {
@@ -28595,7 +28883,7 @@
       "settings": {
         "meta_descr": "Trump mocks Biden with viral Ghanaian coffin dancers",
         "title": "Trump mocks Biden with viral Ghanaian coffin dancers",
-        "order": 47
+        "order": 53
       },
       "components": [
         {
@@ -28897,7 +29185,7 @@
       "settings": {
         "meta_descr": "3D masks - ventilators: Kenya tech-novators on virus-combat mission",
         "title": "3D masks - ventilators: Kenya tech-novators on virus-combat mission",
-        "order": 48
+        "order": 54
       },
       "components": [
         {
@@ -29199,7 +29487,7 @@
       "settings": {
         "meta_descr": "Algeria producing virus test kits with 15 minutes detection time - GOVERNMENT",
         "title": "Algeria producing virus test kits with 15 minutes detection time - GOVERNMENT",
-        "order": 49
+        "order": 55
       },
       "components": [
         {
@@ -29501,7 +29789,7 @@
       "settings": {
         "meta_descr": "Challenge One: Tunisia's first homebuilt satellite",
         "title": "Challenge One: Tunisia's first homebuilt satellite",
-        "order": 50
+        "order": 56
       },
       "components": [
         {
@@ -29803,7 +30091,7 @@
       "settings": {
         "meta_descr": "Africa COVID-19 stats: 418,211 cases; 10,406 deaths; 198,182 recoveries",
         "title": "Africa COVID-19 stats: 418,211 cases; 10,406 deaths; 198,182 recoveries",
-        "order": 51
+        "order": 57
       },
       "components": [
         {
@@ -30105,7 +30393,7 @@
       "settings": {
         "meta_descr": "Tanzania, Benin, Mauritius move up World Bank income rankings",
         "title": "Tanzania, Benin, Mauritius move up World Bank income rankings",
-        "order": 52
+        "order": 58
       },
       "components": [
         {
@@ -30407,7 +30695,7 @@
       "settings": {
         "meta_descr": "AFCON moved to 2022, delayed CHAN slated for Jan. 2021",
         "title": "AFCON moved to 2022, delayed CHAN slated for Jan. 2021",
-        "order": 53
+        "order": 59
       },
       "components": [
         {
@@ -30709,7 +30997,7 @@
       "settings": {
         "meta_descr": "COVID-19: Kenya Airways loses $100 million in revenue",
         "title": "COVID-19: Kenya Airways loses $100 million in revenue",
-        "order": 54
+        "order": 60
       },
       "components": [
         {
@@ -31011,7 +31299,7 @@
       "settings": {
         "meta_descr": "AFDB ranks 4th on global index of transparency",
         "title": "AFDB ranks 4th on global index of transparency",
-        "order": 55
+        "order": 61
       },
       "components": [
         {
@@ -31313,7 +31601,7 @@
       "settings": {
         "meta_descr": "African, global telecom giants bid to enter Ethiopia market",
         "title": "African, global telecom giants bid to enter Ethiopia market",
-        "order": 56
+        "order": 62
       },
       "components": [
         {
@@ -31615,7 +31903,7 @@
       "settings": {
         "meta_descr": "COVID dictionary: A - Z of words that accompanied the coronavirus",
         "title": "COVID dictionary: A - Z of words that accompanied the coronavirus",
-        "order": 57
+        "order": 63
       },
       "components": [
         {
@@ -31917,7 +32205,7 @@
       "settings": {
         "meta_descr": "Russians give Putin the chance to stay in power until 2036 after historic vote",
         "title": "Russians give Putin the chance to stay in power until 2036 after historic vote",
-        "order": 58
+        "order": 64
       },
       "components": [
         {
@@ -32222,7 +32510,7 @@
       "settings": {
         "meta_descr": "Facebook is shutting down TikTok clone Lasso and Pinterest rival Hobbi",
         "title": "Facebook is shutting down TikTok clone Lasso and Pinterest rival Hobbi",
-        "order": 59
+        "order": 65
       },
       "components": [
         {
@@ -32527,7 +32815,7 @@
       "settings": {
         "meta_descr": "The UK is in 'pole position' for market recovery despite gloomy economic outlook, UBS says",
         "title": "The UK is in 'pole position' for market recovery despite gloomy economic outlook, UBS says",
-        "order": 60
+        "order": 66
       },
       "components": [
         {
@@ -32832,7 +33120,7 @@
       "settings": {
         "meta_descr": "Oil demand to return to pre-pandemic levels by 2022, Goldman says, but unlikely to peak this decade",
         "title": "Oil demand to return to pre-pandemic levels by 2022, Goldman says, but unlikely to peak this decade",
-        "order": 61
+        "order": 67
       },
       "components": [
         {
@@ -33137,7 +33425,7 @@
       "settings": {
         "meta_descr": "'Enormous bias' clouds international approach to African debt relief, experts say",
         "title": "'Enormous bias' clouds international approach to African debt relief, experts say",
-        "order": 62
+        "order": 68
       },
       "components": [
         {
@@ -33442,7 +33730,7 @@
       "settings": {
         "meta_descr": "Sweden's currency has strengthened — with no coronavirus lockdown — and the trend could continue",
         "title": "Sweden's currency has strengthened — with no coronavirus lockdown — and the trend could continue",
-        "order": 63
+        "order": 69
       },
       "components": [
         {
@@ -33747,7 +34035,7 @@
       "settings": {
         "meta_descr": "U.S.-China relations are headed for the 'darkest chapter yet,' says Eurasia Group",
         "title": "U.S.-China relations are headed for the 'darkest chapter yet,' says Eurasia Group",
-        "order": 64
+        "order": 70
       },
       "components": [
         {
@@ -34052,7 +34340,7 @@
       "settings": {
         "meta_descr": "Analysts: Fire at Iran nuke site hit new centrifuge facility",
         "title": "Analysts: Fire at Iran nuke site hit new centrifuge facility",
-        "order": 65
+        "order": 71
       },
       "components": [
         {
@@ -34357,7 +34645,7 @@
       "settings": {
         "meta_descr": "UK says 'we will not duck our historic responsibilities' to Hong Kongers, offers path to citizenship",
         "title": "UK says 'we will not duck our historic responsibilities' to Hong Kongers, offers path to citizenship",
-        "order": 66
+        "order": 72
       },
       "components": [
         {
@@ -34662,7 +34950,7 @@
       "settings": {
         "meta_descr": "The most liberal and conservative tech companies, ranked by employees' political donations",
         "title": "The most liberal and conservative tech companies, ranked by employees' political donations",
-        "order": 67
+        "order": 73
       },
       "components": [
         {
@@ -34967,7 +35255,7 @@
       "settings": {
         "meta_descr": "Shares of digital insurance company Lemonade more than double in public debut",
         "title": "Shares of digital insurance company Lemonade more than double in public debut",
-        "order": 68
+        "order": 74
       },
       "components": [
         {
@@ -35272,7 +35560,7 @@
       "settings": {
         "meta_descr": "How the Twitter alternative Trump fans are flocking to plans to make money",
         "title": "How the Twitter alternative Trump fans are flocking to plans to make money",
-        "order": 69
+        "order": 75
       },
       "components": [
         {
@@ -35577,7 +35865,7 @@
       "settings": {
         "meta_descr": "Apple, Google, Amazon and Facebook CEOs agree to testify before House committee",
         "title": "Apple, Google, Amazon and Facebook CEOs agree to testify before House committee",
-        "order": 70
+        "order": 76
       },
       "components": [
         {
@@ -35882,7 +36170,7 @@
       "settings": {
         "meta_descr": "Twitter removes an image tweeted by Trump for violating its copyright policy",
         "title": "Twitter removes an image tweeted by Trump for violating its copyright policy",
-        "order": 71
+        "order": 77
       },
       "components": [
         {
@@ -36187,7 +36475,7 @@
       "settings": {
         "meta_descr": "More than half of Americans say they're more stressed than they were before the Covid-19 pandemic",
         "title": "More than half of Americans say they're more stressed than they were before the Covid-19 pandemic",
-        "order": 72
+        "order": 78
       },
       "components": [
         {
@@ -36492,7 +36780,7 @@
       "settings": {
         "meta_descr": "Apple is pushing suppliers to cut production delays for its 5G iPhone range, Nikkei reports",
         "title": "Apple is pushing suppliers to cut production delays for its 5G iPhone range, Nikkei reports",
-        "order": 73
+        "order": 79
       },
       "components": [
         {
@@ -36797,7 +37085,7 @@
       "settings": {
         "meta_descr": "China's Huawei and ZTE officially designated 'national security threats' by the FCC",
         "title": "China's Huawei and ZTE officially designated 'national security threats' by the FCC",
-        "order": 74
+        "order": 80
       },
       "components": [
         {
@@ -37102,7 +37390,7 @@
       "settings": {
         "meta_descr": "Companies joining the Facebook ad boycott risk their bottom lines to take a stand",
         "title": "Companies joining the Facebook ad boycott risk their bottom lines to take a stand",
-        "order": 75
+        "order": 81
       },
       "components": [
         {
@@ -37407,7 +37695,7 @@
       "settings": {
         "meta_descr": "Google raises price of YouTube TV, its cable-like bundle, to $65 a month",
         "title": "Google raises price of YouTube TV, its cable-like bundle, to $65 a month",
-        "order": 76
+        "order": 82
       },
       "components": [
         {
@@ -37712,7 +38000,7 @@
       "settings": {
         "meta_descr": "European Uber rival Bolt launches electric bikes in Paris",
         "title": "European Uber rival Bolt launches electric bikes in Paris",
-        "order": 77
+        "order": 83
       },
       "components": [
         {
@@ -38017,7 +38305,7 @@
       "settings": {
         "meta_descr": "Twitter A.I. guru who worked for Magic Pony is set to join Cambridge University",
         "title": "Twitter A.I. guru who worked for Magic Pony is set to join Cambridge University",
-        "order": 78
+        "order": 84
       },
       "components": [
         {
@@ -38322,7 +38610,7 @@
       "settings": {
         "meta_descr": "Wirecard to resume operations in the UK after regulators lift restrictions",
         "title": "Wirecard to resume operations in the UK after regulators lift restrictions",
-        "order": 79
+        "order": 85
       },
       "components": [
         {
@@ -38627,7 +38915,7 @@
       "settings": {
         "meta_descr": "Senate Democrats push to extend enhanced unemployment benefit until jobless rates fall",
         "title": "Senate Democrats push to extend enhanced unemployment benefit until jobless rates fall",
-        "order": 80
+        "order": 86
       },
       "components": [
         {
@@ -38932,7 +39220,7 @@
       "settings": {
         "meta_descr": "Trump should tell people to wear coronavirus masks, ex-chief of staff Mick Mulvaney says",
         "title": "Trump should tell people to wear coronavirus masks, ex-chief of staff Mick Mulvaney says",
-        "order": 81
+        "order": 87
       },
       "components": [
         {
@@ -39237,7 +39525,7 @@
       "settings": {
         "meta_descr": "Democrats slam Trump after White House briefing for suggesting reports of Russian bounties are a 'hoax'",
         "title": "Democrats slam Trump after White House briefing for suggesting reports of Russian bounties are a 'hoax'",
-        "order": 82
+        "order": 88
       },
       "components": [
         {
@@ -39542,7 +39830,7 @@
       "settings": {
         "meta_descr": "Mothers of military sons killed in Afghanistan want probe of Russian death bounties",
         "title": "Mothers of military sons killed in Afghanistan want probe of Russian death bounties",
-        "order": 83
+        "order": 89
       },
       "components": [
         {
@@ -39847,7 +40135,7 @@
       "settings": {
         "meta_descr": "Judge orders Mary Trump to explain why her tell-all shouldn't be barred from publication",
         "title": "Judge orders Mary Trump to explain why her tell-all shouldn't be barred from publication",
-        "order": 84
+        "order": 90
       },
       "components": [
         {
@@ -40152,7 +40440,7 @@
       "settings": {
         "meta_descr": "Top CEOs see business impact from coronavirus lingering until at least the end of 2021",
         "title": "Top CEOs see business impact from coronavirus lingering until at least the end of 2021",
-        "order": 85
+        "order": 91
       },
       "components": [
         {
@@ -40454,7 +40742,7 @@
       "settings": {
         "meta_descr": "Iran issues arrest warrant for Trump over killing of top commander Qasem Soleimani",
         "title": "Iran issues arrest warrant for Trump over killing of top commander Qasem Soleimani",
-        "order": 86
+        "order": 92
       },
       "components": [
         {
@@ -40756,7 +41044,7 @@
       "settings": {
         "meta_descr": "Davido buys daughter Imade a gift as\nshe graduates from kindergarten",
         "title": "Davido buys daughter Imade a gift as she graduates from kindergarten",
-        "order": 87
+        "order": 93
       },
       "components": [
         {
@@ -41072,7 +41360,7 @@
       "settings": {
         "meta_descr": "Nigerians take to streets to protest against sexual violence on women.",
         "title": "Nigerians take to streets to protest against sexual violence on women.",
-        "order": 88
+        "order": 94
       },
       "components": [
         {
@@ -41374,7 +41662,7 @@
       "settings": {
         "meta_descr": "Oil falls from $40 as doubts emerge over next step on OPEC cuts ",
         "title": "Oil falls from $40 as doubts emerge over next step on OPEC cuts ",
-        "order": 89
+        "order": 95
       },
       "components": [
         {
@@ -41676,7 +41964,7 @@
       "settings": {
         "meta_descr": "DJ Khaled Tapped to Unveil Snipes’ New Concept Store in New York",
         "title": "DJ Khaled Tapped to Unveil Snipes’ New Concept Store in New York",
-        "order": 90
+        "order": 96
       },
       "components": [
         {
@@ -41978,7 +42266,7 @@
       "settings": {
         "meta_descr": "Why John wick's Director Loved Seeing The Movie On The Big Screen And What He Learned",
         "title": "Why John wick's Director Loved Seeing The Movie On The Big Screen And What He Learned",
-        "order": 91
+        "order": 97
       },
       "components": [
         {
@@ -42280,7 +42568,7 @@
       "settings": {
         "meta_descr": "On Saturday, a tweet from a Kanye fan site demonstrated Snoop, Dr. Dre and Kanye all together in the account studio. In the video, Snoop even acclaims Kanye's music, calling it \"hot.\"",
         "title": "FAN CRITICISM SNOOP DOGG CRITICIZED FOR WORKING WITH KANYE WEST",
-        "order": 92
+        "order": 98
       },
       "components": [
         {
@@ -42585,7 +42873,7 @@
       "settings": {
         "meta_descr": "The Best Action Movies of 2020 (So far)",
         "title": "The Best Action Movies of 2020 (So far)",
-        "order": 93
+        "order": 99
       },
       "components": [
         {
@@ -43153,7 +43441,7 @@
       "settings": {
         "meta_descr": "Fashion Week Will Never Be The Same Again.",
         "title": "Fashion Week Will Never Be The Same Again.",
-        "order": 94
+        "order": 100
       },
       "components": [
         {
@@ -43456,7 +43744,7 @@
       "settings": {
         "meta_descr": "TOP 12 Most Colorful Festivals You Can Only Experience in Nigeria",
         "title": "TOP 12 Most Colorful Festivals You Can Only Experience in Nigeria",
-        "order": 95
+        "order": 101
       },
       "components": [
         {
@@ -43759,7 +44047,7 @@
       "settings": {
         "meta_descr": "Fans celebrate Lee Min Ho’s birthday with a sweet gesture",
         "title": "Fans celebrate Lee Min Ho’s birthday with a sweet gesture",
-        "order": 96
+        "order": 102
       },
       "components": [
         {
@@ -44061,7 +44349,7 @@
       "settings": {
         "meta_descr": "Big Brother Naija season 5 to premiere in July",
         "title": "Big Brother Naija season 5 to premiere in July",
-        "order": 97
+        "order": 103
       },
       "components": [
         {
@@ -44363,7 +44651,7 @@
       "settings": {
         "meta_descr": "Making amends: Djokovic’s whopping donation to coronavirus-ravaged town",
         "title": "Making amends: Djokovic’s whopping donation to coronavirus-ravaged town",
-        "order": 99
+        "order": 105
       },
       "components": [
         {
@@ -44660,7 +44948,7 @@
       "settings": {
         "meta_descr": "German Bundesliga resumes after coronavirus outbreak: What matchday, player testing and safety will look like\n",
         "title": "German Bundesliga resumes after coronavirus outbreak: What matchday, player testing and safety will look like",
-        "order": 98
+        "order": 104
       },
       "components": [
         {
@@ -44957,7 +45245,7 @@
       "settings": {
         "meta_descr": "“Tennis World Is Not Taking It Seriously” – Nick Kyrgios on Tour Resumption Amid Coronavirus Pandemic",
         "title": "“Tennis World Is Not Taking It Seriously” – Nick Kyrgios on Tour Resumption Amid Coronavirus Pandemic",
-        "order": 100
+        "order": 106
       },
       "components": [
         {
@@ -45254,7 +45542,7 @@
       "settings": {
         "meta_descr": "The Top 10 Contenders for the 2020 Golden Boy Award - Ranked",
         "title": "The Top 10 Contenders for the 2020 Golden Boy Award - Ranked",
-        "order": 101
+        "order": 107
       },
       "components": [
         {
@@ -46074,7 +46362,7 @@
       "settings": {
         "meta_descr": "latest transfer news",
         "title": "transfer",
-        "order": 102
+        "order": 108
       },
       "components": [
         {
@@ -46897,7 +47185,7 @@
       "settings": {
         "meta_descr": "Serena Williams, Rafael Nadal, Roger Federer losses among Top 10 upsets in history",
         "title": "Serena Williams, Rafael Nadal, Roger Federer losses among Top 10 upsets in history",
-        "order": 103
+        "order": 109
       },
       "components": [
         {
@@ -47194,7 +47482,7 @@
       "settings": {
         "meta_descr": "NFL rumors: League considering waiver for fans who want to attend games in 2020",
         "title": "NFL rumors: League considering waiver for fans who want to attend games in 2020",
-        "order": 104
+        "order": 110
       },
       "components": [
         {
@@ -47491,7 +47779,7 @@
       "settings": {
         "meta_descr": "POWER RANKED: The 15 best boxers in the world right now",
         "title": "POWER RANKED: The 15 best boxers in the world right now",
-        "order": 105
+        "order": 111
       },
       "components": [
         {
@@ -47788,7 +48076,7 @@
       "settings": {
         "meta_descr": "NFL cuts 2020 preseason in half",
         "title": "NFL cuts 2020 preseason in half",
-        "order": 106
+        "order": 112
       },
       "components": [
         {
@@ -48085,7 +48373,7 @@
       "settings": {
         "meta_descr": "Qater Completes its Third Stadium",
         "title": "Qater Completes its Third Stadium",
-        "order": 107
+        "order": 113
       },
       "components": [
         {
@@ -48382,7 +48670,7 @@
       "settings": {
         "meta_descr": "Coronavirus: How the virus has impacted sporting events around the world",
         "title": "Coronavirus: How the virus has impacted sporting events around the world",
-        "order": 108
+        "order": 114
       },
       "components": [
         {
@@ -48684,7 +48972,7 @@
       "settings": {
         "meta_descr": "How do you implement social distancing",
         "title": "SOCIAL DISTANCING?",
-        "order": 22
+        "order": 28
       },
       "components": [
         {
@@ -48985,7 +49273,7 @@
       "settings": {
         "meta_descr": "Top 5 star Hotels in Nija",
         "title": "Top 5 star Hotels in Nija",
-        "order": 36
+        "order": 42
       },
       "components": [
         {
@@ -49642,6 +49930,2098 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-n0"
+        }
+      ]
+    },
+    "BBNaija 2020 Twitter responds to first Saturday night party .html": {
+      "settings": {
+        "meta_descr": "BBNaija 2020: Twitter responds to first Saturday night party ",
+        "title": "BBNaija 2020: Twitter responds to first Saturday night party ",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#194d71",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"etl-icon icon-hourglass mbr-iconfont mbr-iconfont-btn\"></span>TRENDING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"all sport news.html\">SPORTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entertainment.html\">ENTERTAINMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tech update.html\">ICT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business gist.html\">BUSINESS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"politics.html\" aria-expanded=\"false\">POLITICS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"must read.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>MUST-READ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Myblog.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>MY BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"gifted.html\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\"></span>AUTHOR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#103147"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#164464!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#194d71"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            },
+            "A": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/firstparty-481x319.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BBNaija 2020: Twitter responds to first Saturday night party&nbsp;",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-10f",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>BBNaija 2020: Twitter responds to first Saturday night party \r</b></p><p>\r</p><p><b><i>Date: 26 July 2020 – by gifted \r</i></b></p><p>\r</p><p>Here are a portion of the responses on Twitter following the primary Saturday night party at Biggie's home. \r</p><p>\r</p><p>The housemates accumulated for the absolute first night gathering of the fifth period of Big Brother Naija on Saturday, July 25, 2020. \r</p><p>\r</p><p>The gathering which has gotten one of the significant features of the unscripted television show began a moderate and unsteady note because of some specialized hitches. \r</p><p>\r</p><p>It took right around 30 minutes before the as of now advertised up housemates could subside into the gathering and make some great memories. \r</p><p>\r</p><p>Here are a portion of the responses on Twitter following the absolute first Saturday night party at Biggie's home. \r</p><p>\r</p><p>The gathering legitimate \r</p><p>\r</p><p>All things considered, many individuals were intrigued at the party moves of a portion of the housemates. Some place, in any case, overwhelmed by BrightO's great moving aptitudes particularly since he had been nicknamed via web-based networking media as a 'minister.'</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-10g"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "30",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/bbntweets-300x160.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Check Out the Literal &nbsp;tweets",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://twitter.com/Hez_mykel/status/1287135454685474817\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-10j"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-10h"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/francis_gifted/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/francis.gift.311/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"https://wa.me/08143975155\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/i_am_gi_ft_ed/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-10i"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><strong>CONTACT</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>Email: <a href=\"mailto:francisgifted@gmail.com\" class=\"text-danger\">francisgifted@gmail.com </a>\n<br>Phone: <a href=\"tel:09075123315\" class=\"text-danger\">09075123315</a><br><br><b><a href=\"subscribe.html\" class=\"text-info\">SUBSCRIBE</a></b><a href=\"tel:08143975155\" class=\"text-danger\"><br></a><br></p>",
+          "text2": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>POPULAR GIST</b></span></font><br><br><a href=\"business gist.html\" class=\"text-danger\">Business&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;                  (21)</a></p><p>............................................................<br><a href=\"all sport news.html\" class=\"text-danger\">Sports&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;             (30)</a></p><p>............................................................<br><a href=\"tech update.html\" class=\"text-danger\">Technology&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          (31)</a> </p><p>...........................................................<br><a href=\"Myblog.html\" class=\"text-danger\">Make Money &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(10)</a> </p><p>...........................................................<br><a href=\"Entertainment.html\" class=\"text-danger\">Lifestyle &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)</a><br></p>",
+          "text3": "<strong>COPYRIGHTES</strong><br><br><a href=\"gifted.html\" class=\"text-danger\">About Me</a><br>........................................<br><a href=\"http://www.techmindset.ga\" target=\"_blank\" class=\"text-danger\">Trademark</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Advertising</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Write for giftedblog</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#cccccc",
+              "text-align": "left",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "contacts1-10d"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020: <a href=\"https://techmindset.ga\" class=\"text-danger\">Techmindset</a> Alright Reserved-Powered By Cisco Your IT Guy",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-10e"
+        }
+      ]
+    },
+    "I didnt provide request to suspend Big Brother Naija - Lai Mohammed .html": {
+      "settings": {
+        "meta_descr": "I didn't provide request to suspend Big Brother Naija - Lai Mohammed ",
+        "title": "I didn't provide request to suspend Big Brother Naija - Lai Mohammed ",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#194d71",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"etl-icon icon-hourglass mbr-iconfont mbr-iconfont-btn\"></span>TRENDING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"all sport news.html\">SPORTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entertainment.html\">ENTERTAINMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tech update.html\">ICT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business gist.html\">BUSINESS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"politics.html\" aria-expanded=\"false\">POLITICS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"must read.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>MUST-READ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Myblog.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>MY BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"gifted.html\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\"></span>AUTHOR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#103147"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#164464!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#194d71"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            },
+            "A": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/bbnscandal-800x600.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "I didn't provide request to suspend Big Brother Naija - Lai Mohammed&nbsp;",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-10n",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><i>Date - 26, july 2020 - by gifted</i></b></p><p><br></p><p>Lai Mohammed has responded to the supposed mandate to suspend the Big Brother Naija show - There were viral cases that the clergyman of data and culture requested NBC to quit airing the truth program - Mohammed's representative, Segun Adeyemi, completely expressed that his chief never provided such a request \n</p><p>\n</p><p>The priest of data and culture, Lai Mohammed, has exposed cases that he coordinated the Nigerian Broadcasting Commission (NBC) to suspend the Big Brother Naija show. An announcement made by Mohammed's media helper, Segun Adeyemi, totally separated the priest from the implied request to the NBC, PM News reports. \n</p><p>\n</p><p>Adeyemi said that if the priest provided the request to the commission concerning the unscripted TV drama, it would have come as a reminder and not simply verbally. \n</p><p>\n</p><p>Mohammed's representative stated: \"That announcement isn't credited to the priest. We won't elevate theoretical reports; if a pastor gives an order, it won't be given verbally. \"There will be an update with that impact that he will send; anyone that is certain that the clergyman offered that expression ought to give a notice.\" Before this, there were reports that Mohammed approached the telecom office to promptly end the show According to The Cable, Mohammed's mandates was sent to the acting executive general of the NBC, Armstrong Idachaba, who on Wednesday, July 22, transferred the request to the board individuals from the commission. \n</p><p>\n</p><p>Lai Mohammed gives mandate for end of Big Brother Naija (Source: UGC) Source: UGC However, MultiChoice Ltd, the makers of the truth, had disclosed to the NBS that it has made sure about the endorsement of the Lagos state government having guaranteed housemates and the sorting out group will carefully comply with all the wellbeing conventions against COVID-19. \n</p><p>\n</p><p>MultiChoice expressed that it got the green light to proceed with the show from Lagos State Safety Commission (LSSC). \n</p><p>\n</p><p>The declaration was as of late made by the show's coordinators. As per the coordinators, the declaration follows the finish of the online tryouts back in May which recorded more than 30,000 sections from intrigued people across Nigeria. The BBNaija season 5 would be communicated live and nearby the expulsion shows and the week by week features. The season's prize cash vows to be greater including different shocks for watchers and aficionados of the show. The coordinators had noticed that they would guarantee that worldwide prescribed procedures, safety measures, and preventive measures would be followed all through the show particularly as respects the commonness of the COVID-19 pandemic.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-10o"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-10p"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/francis_gifted/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/francis.gift.311/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"https://wa.me/08143975155\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/i_am_gi_ft_ed/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-10q"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><strong>CONTACT</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>Email: <a href=\"mailto:francisgifted@gmail.com\" class=\"text-danger\">francisgifted@gmail.com </a>\n<br>Phone: <a href=\"tel:09075123315\" class=\"text-danger\">09075123315</a><br><br><b><a href=\"subscribe.html\" class=\"text-info\">SUBSCRIBE</a></b><a href=\"tel:08143975155\" class=\"text-danger\"><br></a><br></p>",
+          "text2": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>POPULAR GIST</b></span></font><br><br><a href=\"business gist.html\" class=\"text-danger\">Business&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;                  (21)</a></p><p>............................................................<br><a href=\"all sport news.html\" class=\"text-danger\">Sports&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;             (30)</a></p><p>............................................................<br><a href=\"tech update.html\" class=\"text-danger\">Technology&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          (31)</a> </p><p>...........................................................<br><a href=\"Myblog.html\" class=\"text-danger\">Make Money &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(10)</a> </p><p>...........................................................<br><a href=\"Entertainment.html\" class=\"text-danger\">Lifestyle &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)</a><br></p>",
+          "text3": "<strong>COPYRIGHTES</strong><br><br><a href=\"gifted.html\" class=\"text-danger\">About Me</a><br>........................................<br><a href=\"http://www.techmindset.ga\" target=\"_blank\" class=\"text-danger\">Trademark</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Advertising</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Write for giftedblog</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#cccccc",
+              "text-align": "left",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "contacts1-10l"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020: <a href=\"https://techmindset.ga\" class=\"text-danger\">Techmindset</a> Alright Reserved-Powered By Cisco Your IT Guy",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-10m"
+        }
+      ]
+    },
+    "BBNaija 2020 Adorable photographs of 29-year-old Wathoni and her 5-year-old child.html": {
+      "settings": {
+        "meta_descr": "BBNaija 2020: Adorable photographs of 29-year-old Wathoni and her 5-year-old child",
+        "title": "BBNaija 2020: Adorable photographs of 29-year-old Wathoni and her 5-year-old child",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#194d71",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"etl-icon icon-hourglass mbr-iconfont mbr-iconfont-btn\"></span>TRENDING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"all sport news.html\">SPORTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entertainment.html\">ENTERTAINMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tech update.html\">ICT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business gist.html\">BUSINESS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"politics.html\" aria-expanded=\"false\">POLITICS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"must read.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>MUST-READ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Myblog.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>MY BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"gifted.html\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\"></span>AUTHOR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#103147"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#164464!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#194d71"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            },
+            "A": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/adorable-photographs-of-29-year-old-wathoni-and-her-5-year-old-child-900x550.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BBNaija 2020: Adorable photographs of 29-year-old Wathoni and her 5-year-old child",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-10u",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><i>Date: 26, July 2020</i></b></p><p><b><i><br></i></b></p><p>The Big Brother Naija (BBNaija) Lockdown version has a lot of guardians in the house and one such housemate is Wathoni Anyansi. A couple of days into the show, the housemates had the chance to talk with one another and share the narratives that drove them to the Big Brother house. Wathoni proceeded to impart some close to home story to different housemates and to the astonishment of numerous she unveiled that she had a child. \n</p><p>\n</p><p>Consistent with her words, a visit to her online life page shows that she has sporadically flaunted her son to the world. \n</p><p>\n</p><p>In one of the post shared to commend her child's fifth birthday celebration, Wathoni uncovered that she invited him to the world on February 5, 2015. \"Clear a path for my 5-year-old Son twentieth Feb 2015 4:10am you came into my life 4.3kg large. I love you the most in any event, when I reprimand and yell at you,\" the subtitle of the post read. \n</p><p>\n</p><p>In an alternate post that highlighted her son, the BBNaija housemate commended herself on Mother's Day, Wathoni overflowed her page with some charming photographs wherein she was spotted pausing dramatically with her kid. Sharing the post, she stated: \"Cheerful Mother's Day to me and every lovely Mama out there. Remain delightful.\"</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-10v"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-10x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "You may also like",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "32",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/firstparty-481x319.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BBN 2020: First Saturday Night Party of the House",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"BBNaija 2020 Twitter responds to first Saturday night party .html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-10y",
+          "_styles": {
+            "H3": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/francis_gifted/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/francis.gift.311/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"https://wa.me/08143975155\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/i_am_gi_ft_ed/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-10w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><strong>CONTACT</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>Email: <a href=\"mailto:francisgifted@gmail.com\" class=\"text-danger\">francisgifted@gmail.com </a>\n<br>Phone: <a href=\"tel:09075123315\" class=\"text-danger\">09075123315</a><br><br><b><a href=\"subscribe.html\" class=\"text-info\">SUBSCRIBE</a></b><a href=\"tel:08143975155\" class=\"text-danger\"><br></a><br></p>",
+          "text2": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>POPULAR GIST</b></span></font><br><br><a href=\"business gist.html\" class=\"text-danger\">Business&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;                  (21)</a></p><p>............................................................<br><a href=\"all sport news.html\" class=\"text-danger\">Sports&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;             (30)</a></p><p>............................................................<br><a href=\"tech update.html\" class=\"text-danger\">Technology&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          (31)</a> </p><p>...........................................................<br><a href=\"Myblog.html\" class=\"text-danger\">Make Money &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(10)</a> </p><p>...........................................................<br><a href=\"Entertainment.html\" class=\"text-danger\">Lifestyle &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)</a><br></p>",
+          "text3": "<strong>COPYRIGHTES</strong><br><br><a href=\"gifted.html\" class=\"text-danger\">About Me</a><br>........................................<br><a href=\"http://www.techmindset.ga\" target=\"_blank\" class=\"text-danger\">Trademark</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Advertising</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Write for giftedblog</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#cccccc",
+              "text-align": "left",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "contacts1-10s"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020: <a href=\"https://techmindset.ga\" class=\"text-danger\">Techmindset</a> Alright Reserved-Powered By Cisco Your IT Guy",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-10t"
+        }
+      ]
+    },
+    "Dorathy turns out to be first female housemate to get checked on Instagram .html": {
+      "settings": {
+        "meta_descr": "Dorathy turns out to be first female housemate to get checked on Instagram \n",
+        "title": "Dorathy turns out to be first female housemate to get checked on Instagram \n",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#194d71",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"etl-icon icon-hourglass mbr-iconfont mbr-iconfont-btn\"></span>TRENDING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"all sport news.html\">SPORTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entertainment.html\">ENTERTAINMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tech update.html\">ICT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business gist.html\">BUSINESS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"politics.html\" aria-expanded=\"false\">POLITICS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"must read.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>MUST-READ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Myblog.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>MY BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"gifted.html\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\"></span>AUTHOR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#103147"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#164464!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#194d71"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            },
+            "A": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-110"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/varifieddorathy-900x500.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Dorathy turns out to be first female housemate to get checked on Instagram",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-113",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><i>Date: 26, July 2020 - by gifted</i></b></p><p><b><i><br></i></b></p><p>Just seven days into the fifth period of the Big Brother Naija (BBNaija) Lockdown version and housemates have begun catching the blue identification on photograph sharing application, Instagram. Just as of late, 'supplied' housemate Dorathy Bachor got confirmed on the internet based life application accordingly making her the primary female of the period to get checked. \r</p><p>\r</p><p>A visit to the page of the truth star additionally shows that her adherent depend on the stage has ascended to about 130k. Right now, Dorathy has precisely 134 thousand devotees on Instagram and it is required to rise much all the more relying upon how far she remains in the house or ho crowds are spellbound by her. \r</p><p>\r</p><p>The youngster who hails from Delta has immediately gotten one of the most intriguing housemates to draw the consideration of fanatics of the show. A few days back when she was brought into the house by the season's host, Ebuka Obi-Uchendu, Dorathy turned into an inclining subject of conversation on microblogging stage, Twitter. Many couldn't quit spouting over the BBNaija housemate who is blessed by the gods in the chest zone and has no issue shaking uncovering outfits. While she has gotten the principal female to get checked, rapper and University of Lagos (UNILAG) graduate, Laycon, who is additionally a piece of the period, was the primary Lockdown housemate to get confirmed on Instagram. \r</p><p>\r</p><p>In a related tale about Dorathy, Legit.ng recently detailed that the BBNaija housemate admitted to another contender that she used to pay her sister to wash her garments. Dorathy made the disclosure while doing her clothing on the show. The youngster likewise said that she in some cases used to choose to wash all the plates in the house in return for her sister to do her clothing.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-114"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "38",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dorathytweet.webp",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-119"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-117"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "23px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Related",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-115"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "33",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/adorable-photographs-of-29-year-old-wathoni-and-her-5-year-old-child-900x550.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BBN2020: Adorable photo of wathoni and her &nbsp;son",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"BBNaija 2020 Adorable photographs of 29-year-old Wathoni and her 5-year-old child.html\" data-toolbar=\"-mbrBtnMove\">Read</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-116",
+          "_styles": {
+            "H3": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/francis_gifted/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/francis.gift.311/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"https://wa.me/08143975155\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/i_am_gi_ft_ed/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-118"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><strong>CONTACT</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>Email: <a href=\"mailto:francisgifted@gmail.com\" class=\"text-danger\">francisgifted@gmail.com </a>\n<br>Phone: <a href=\"tel:09075123315\" class=\"text-danger\">09075123315</a><br><br><b><a href=\"subscribe.html\" class=\"text-info\">SUBSCRIBE</a></b><a href=\"tel:08143975155\" class=\"text-danger\"><br></a><br></p>",
+          "text2": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>POPULAR GIST</b></span></font><br><br><a href=\"business gist.html\" class=\"text-danger\">Business&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;                  (21)</a></p><p>............................................................<br><a href=\"all sport news.html\" class=\"text-danger\">Sports&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;             (30)</a></p><p>............................................................<br><a href=\"tech update.html\" class=\"text-danger\">Technology&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          (31)</a> </p><p>...........................................................<br><a href=\"Myblog.html\" class=\"text-danger\">Make Money &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(10)</a> </p><p>...........................................................<br><a href=\"Entertainment.html\" class=\"text-danger\">Lifestyle &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)</a><br></p>",
+          "text3": "<strong>COPYRIGHTES</strong><br><br><a href=\"gifted.html\" class=\"text-danger\">About Me</a><br>........................................<br><a href=\"http://www.techmindset.ga\" target=\"_blank\" class=\"text-danger\">Trademark</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Advertising</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Write for giftedblog</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#cccccc",
+              "text-align": "left",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "contacts1-111"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020: <a href=\"https://techmindset.ga\" class=\"text-danger\">Techmindset</a> Alright Reserved-Powered By Cisco Your IT Guy",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-112"
+        }
+      ]
+    },
+    "Vocalist Tiwa Savage asks Rihanna for a joint effort, approaches fans to continue labeling her .html": {
+      "settings": {
+        "meta_descr": "Vocalist Tiwa Savage asks Rihanna for a joint effort, approaches fans to continue labeling her \n",
+        "title": "Vocalist Tiwa Savage asks Rihanna for a joint effort, approaches fans to continue labeling her \n",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#194d71",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"etl-icon icon-hourglass mbr-iconfont mbr-iconfont-btn\"></span>TRENDING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"all sport news.html\">SPORTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entertainment.html\">ENTERTAINMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tech update.html\">ICT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business gist.html\">BUSINESS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"politics.html\" aria-expanded=\"false\">POLITICS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"must read.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>MUST-READ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Myblog.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>MY BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"gifted.html\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\"></span>AUTHOR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#103147"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#164464!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#194d71"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            },
+            "A": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/tiwa-savage-635x335.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Vocalist Tiwa Savage asks Rihanna for a joint effort, approaches fans to continue labeling her \r",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-11d",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><i>Date: 26, July 2020 - by gifted</i></b></p><p><b><i><br></i></b></p><p>Mainstream artist Tiwa Savage has taken to internet based life to shoot her shot and endeavor to catch a tune joint effort with worldwide songstress, Rihanna. Everything began after a fan on microblogging stage, Twitter, had offered a conversation starter at the Nigerian hotshot by asking which worldwide artiste she might want to work with. \r</p><p>\r</p><p>Reacting to the inquiry presented by the fan, Tiwa noticed that she might want to take a shot at a melody with Rihanna. The artist likewise approached her fans on the web-based social networking stage to label the artist with the expectations that she hears her request for cooperation. \r</p><p>\r</p><p>Soon after sharing the tweet, what appeared as though a joke began accepting structure as Tiwa's fans on the stage paid attention to her call to tag Rihanna. The artist additionally came back to her page taking note of that fans could really make the supplication for a joint effort pattern on Twitter and Rihanna will make a move. Tiwa additionally made a special hashtag for fans tweeting about the cooperation. She stated: \"Yoo imagine a scenario where we make it pattern and she hears us. #RihannaXTiwa that would be wiped out yooo ... oya my kin wake up o hashtag #RihannaXTiwa.\" \r</p><p>\r</p><p>A few people demonstrated help for her call while others noticed that she is sufficiently large and doesn't have to ask for worldwide cooperation.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-11e"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "31",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/5f97c00e86bf4372.webp",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-11h"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-11g"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/francis_gifted/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/francis.gift.311/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"https://wa.me/08143975155\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/i_am_gi_ft_ed/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-11f"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><strong>CONTACT</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>Email: <a href=\"mailto:francisgifted@gmail.com\" class=\"text-danger\">francisgifted@gmail.com </a>\n<br>Phone: <a href=\"tel:09075123315\" class=\"text-danger\">09075123315</a><br><br><b><a href=\"subscribe.html\" class=\"text-info\">SUBSCRIBE</a></b><a href=\"tel:08143975155\" class=\"text-danger\"><br></a><br></p>",
+          "text2": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>POPULAR GIST</b></span></font><br><br><a href=\"business gist.html\" class=\"text-danger\">Business&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;                  (21)</a></p><p>............................................................<br><a href=\"all sport news.html\" class=\"text-danger\">Sports&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;             (30)</a></p><p>............................................................<br><a href=\"tech update.html\" class=\"text-danger\">Technology&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          (31)</a> </p><p>...........................................................<br><a href=\"Myblog.html\" class=\"text-danger\">Make Money &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(10)</a> </p><p>...........................................................<br><a href=\"Entertainment.html\" class=\"text-danger\">Lifestyle &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)</a><br></p>",
+          "text3": "<strong>COPYRIGHTES</strong><br><br><a href=\"gifted.html\" class=\"text-danger\">About Me</a><br>........................................<br><a href=\"http://www.techmindset.ga\" target=\"_blank\" class=\"text-danger\">Trademark</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Advertising</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Write for giftedblog</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#cccccc",
+              "text-align": "left",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "contacts1-11b"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020: <a href=\"https://techmindset.ga\" class=\"text-danger\">Techmindset</a> Alright Reserved-Powered By Cisco Your IT Guy",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-11c"
+        }
+      ]
+    },
+    "Start a business for the lady you like - Naira Marley prompts Nigerian men .html": {
+      "settings": {
+        "meta_descr": "Start a business for the lady you like - Naira Marley prompts Nigerian men ",
+        "title": "Start a business for the lady you like - Naira Marley prompts Nigerian men ",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#194d71",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"etl-icon icon-hourglass mbr-iconfont mbr-iconfont-btn\"></span>TRENDING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"all sport news.html\">SPORTS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Entertainment.html\">ENTERTAINMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tech update.html\">ICT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business gist.html\">BUSINESS<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"politics.html\" aria-expanded=\"false\">POLITICS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"must read.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>MUST-READ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Myblog.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>MY BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"gifted.html\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\"></span>AUTHOR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#103147"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#164464!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#194d71"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            },
+            "A": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11i"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/naira-marley-990x598.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Start a business for the lady you like - Naira Marley prompts Nigerian men&nbsp;",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-11l",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><i>Date: 26, July 2020 - by gifted</i></b></p><p><br></p><p>Famous Nigerian artiste, Azeez Fashola otherwise known as Naira Marley, has exhorted Nigerian men on how what they ought to accomplish for their ladies. The Tesumola crooner on his Twitter page on Friday, July 24, advised them to begin a business for the young lady they like. \r</p><p>\r</p><p>His post which went extremely popular after it was tweet produced such huge numbers of responses from his fan base. A great deal of them discussed how they have done as such previously and got copied for it. \r</p><p>\r</p><p>Others are, be that as it may, of the assessment that he just said the honest to goodness truth. \r</p><p>\r</p><p>The Marlian president clarified that as a Marlian it is essential to have a great time one can consider during the energetic days. Notwithstanding, he forewarned that delight ought to be to the detriment of one's future. \"As a Marlian you need to make the most of your childhood yet don't crush your future,\" the rap star's tweet read. He likewise took to a similar stage took to on what might satisfy individuals. As indicated by him, it is just giveaway that can satisfy Nigerians on Twitter. Marley stated: \"The main thing that can satisfy Nigerians on Twitter is giveaway.\" \r</p><p>\r</p><p>Before he turned into an undergrad, Emmanuel composed O'lvel assessments on 17 distinct events and sat for JAMB five unique occasions. In his previous meeting with the media, he said that he once had an exceptionally sad view about what's to come. He said he felt extremely miserable to see his associate push forward of him and become graduates. \r</p><p>\r</p><p>Quick forward to 2020 and it would appear to be all that transpired then just made extremely solid. He simply completed his National Youth Service Corps (NYSC) program, winning a few honors. While displaying the honors on his Instagram page on Friday, July 24, he said that that he has served humankind.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-11m"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-11n"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/francis_gifted/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/francis.gift.311/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" href=\"https://wa.me/08143975155\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/i_am_gi_ft_ed/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-11o"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gbs.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><strong>CONTACT</strong><br>&nbsp;&nbsp;&nbsp;&nbsp;<br>Email: <a href=\"mailto:francisgifted@gmail.com\" class=\"text-danger\">francisgifted@gmail.com </a>\n<br>Phone: <a href=\"tel:09075123315\" class=\"text-danger\">09075123315</a><br><br><b><a href=\"subscribe.html\" class=\"text-info\">SUBSCRIBE</a></b><a href=\"tel:08143975155\" class=\"text-danger\"><br></a><br></p>",
+          "text2": "<p><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>POPULAR GIST</b></span></font><br><br><a href=\"business gist.html\" class=\"text-danger\">Business&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;                  (21)</a></p><p>............................................................<br><a href=\"all sport news.html\" class=\"text-danger\">Sports&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;             (30)</a></p><p>............................................................<br><a href=\"tech update.html\" class=\"text-danger\">Technology&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          (31)</a> </p><p>...........................................................<br><a href=\"Myblog.html\" class=\"text-danger\">Make Money &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(10)</a> </p><p>...........................................................<br><a href=\"Entertainment.html\" class=\"text-danger\">Lifestyle &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)</a><br></p>",
+          "text3": "<strong>COPYRIGHTES</strong><br><br><a href=\"gifted.html\" class=\"text-danger\">About Me</a><br>........................................<br><a href=\"http://www.techmindset.ga\" target=\"_blank\" class=\"text-danger\">Trademark</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Advertising</a><br>.......................................<br><a href=\"contact.html\" class=\"text-danger\">Write for giftedblog</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#cccccc",
+              "text-align": "left",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "contacts1-11j"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#194d71",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020: <a href=\"https://techmindset.ga\" class=\"text-danger\">Techmindset</a> Alright Reserved-Powered By Cisco Your IT Guy",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-11k"
         }
       ]
     }
